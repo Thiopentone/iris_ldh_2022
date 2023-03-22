@@ -1,6 +1,6 @@
 # The IRIS Consortium
 ![image](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
-![image_3](https://img.shields.io/static/v1?label=Coding%20Language&message=R&color=orange&?style=plastic&logo=appveyor)
+![image_3](https://img.shields.io/static/v1?label=Coding%20Language&message=R&color=blueviolet&?style=plastic&logo=appveyor)
 ![image_2](https://img.shields.io/static/v1?label=Last%20Repo%20Update&message=22%20March%202023&color=green&?style=plastic&logo=appveyor)
 ![image_4](https://img.shields.io/static/v1?label=Repo%20Status&message=Active&color=green&?style=plastic&logo=appveyor)
 <br>
@@ -15,8 +15,7 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 <br>
 This is how you dropdown.
 </details>
-<br>
-<br> **NOTE**
+**NOTE**
 <br>
 <br> This code was used to run analyses for two manuscripts:
 
