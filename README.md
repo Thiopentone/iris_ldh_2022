@@ -1,6 +1,7 @@
 # The IRIS Consortium
 ![image](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
-Accompanying code for the *Lancet Digital Health 2023* manuscript:
+![image_2](https://img.shields.io/static/v1?label=Repo%20updated:&message=22%20March%202023&color=green&?style=plastic&logo=appveyor)
+<br> Accompanying code for the *Lancet Digital Health 2023* manuscript:
 <br> 
 <br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
 
