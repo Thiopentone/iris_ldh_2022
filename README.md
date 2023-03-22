@@ -2,7 +2,7 @@
 Accompanying code for the *Lancet Digital Health* manuscript
 
 ## Overview
-This repository contains the R code used to analyse the IRIS Consortium data. The code has been compiled into a R project. 
+This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into a R project. 
 <br>
 <br> **NOTE**
 <br>
