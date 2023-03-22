@@ -13,8 +13,10 @@ This repository contains the R code used to analyse the IRIS Consortium data. Th
 Due to the sensitive and high-risk nature of the IRIS Consortium data, data sets will NOT be made available to the public.
 ## Codebook
 > `main_script.R` - 
-> `test`
 ## License
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+## Previous Publications
+|**Publication**|**Repository**|
+|[*Lancet Digital Health 2021*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00077-7/fulltext)|[access here](https://github.com/brueggemann-lab/iris-ldh-2020)|
 ## Contact
 If you have any queries, suggestions or concerns, please [get in touch.](mailto:iris@ndph.ox.ac.uk)
