@@ -1,5 +1,6 @@
 # The IRIS Consortium
 ![image](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
+![image_3](https://img.shields.io/static/v1?label=Code%20Language:&message=R&color=red&?style=plastic&logo=appveyor)
 ![image_2](https://img.shields.io/static/v1?label=Repo%20updated:&message=22%20March%202023&color=green&?style=plastic&logo=appveyor)
 <br> Accompanying code for the *Lancet Digital Health 2023* manuscript:
 <br> 
