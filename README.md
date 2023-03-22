@@ -1,5 +1,6 @@
 # The IRIS Consortium
-Accompanying code for the *Lancet Digital Health* manuscript
+Accompanying code for the *Lancet Digital Health 2023* manuscript:
+<br> *"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*
 
 ## Overview
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into a R project. 
@@ -8,7 +9,7 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 <br>
 <br> This code was used to run analyses for two manuscripts:
 
-|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health*](https://this-page-intentionally-left-blank.org/)|
+|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health 2023*](https://this-page-intentionally-left-blank.org/)|
 |----------|------------|----------|
 
 
