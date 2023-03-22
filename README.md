@@ -7,8 +7,10 @@ This repository contains the R code used to analyse the IRIS Consortium data. Th
 <br> **NOTE**
 <br>
 <br> This code was used to run analyses for two manuscripts:
+<center>
 |Manuscript|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health*](https://this-page-intentionally-left-blank.org/)|
 |----------|------------|----------|
+</center>
 ## Data Protection
 Due to the sensitive and high-risk nature of the IRIS Consortium data, data sets will NOT be made available to the public.
 ## Codebook
