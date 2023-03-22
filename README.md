@@ -5,6 +5,11 @@ Accompanying code for the *Lancet Digital Health 2023* manuscript:
 
 ## Overview
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into a R project. 
+<details>
+<summary>How do I download and run an R project?</summary>
+<br>
+This is how you dropdown.
+</details>
 <br>
 <br> **NOTE**
 <br>
