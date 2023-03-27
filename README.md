@@ -30,12 +30,6 @@ This is how you dropdown.
 Due to data protection agreements, IRIS Consortium data will **NOT** be made available to the public.
 ## Codebook
 > `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
-<details>
-<summary>Folders</summary>
-<br>
-<br> **Functions** - folder containing all the functions written to facilitate data analytics
-<br> **Data Sets** - folder that should contain all data sets analysed. **NOTE** This folder does NOT contain original data sets.
-</details>
 
 ## License
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
