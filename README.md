@@ -26,9 +26,10 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 ## Codebook
 > `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
 <br>
-<br> **Folder Contents**
+**Folder Contents**
 
 > **Functions**
+> <br>
 > **Data sets**
 <details>
 <summary>How do I download and run an R project?</summary>
