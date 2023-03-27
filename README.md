@@ -28,13 +28,14 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 <br>
 **Folder Contents**
 
-> **Functions**
+> **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
 > <br>
-> **Data sets**
+> **Data Sets** - folder containing all *data sets* analysed
 <details>
-<summary>How do I download and run an R project?</summary>
+<summary>Population Data sets</summary>
 <br>
-This is how you dropdown.
+1. World Bank population estimates available [here.](https://data.worldbank.org/indicator/SP.POP.TOTL)
+  2. Office for National Statistics (UK) available [here.](https://www.ons.gov.uk/timeseriestool?topic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries) 
 </details>
 
 ## License
