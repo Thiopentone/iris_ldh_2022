@@ -28,12 +28,12 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 
 **Folder Contents**
 >**Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
-><br> **Data Sets** - folder containing all *data sets* analysed
+><br> **Data Sets** - folder containing all *data sets* analysed (**NOTE**: does **NOT** include data sets analysed for the manuscript)
 
 <details>
 <summary>Population Data sets</summary>
 1. World Bank population estimates: https://data.worldbank.org/indicator/SP.POP.TOTL <br>
-2. Office for National Statistics (UK): https://www.ons.gov.uk/timeseriestooltopic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries 
+2. Office for National Statistics (UK): https://www.ons.gov.uk/timeseriestool?topic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries 
 </details>
 
 ## License
