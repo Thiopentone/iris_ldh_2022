@@ -25,9 +25,9 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 Due to data protection agreements, IRIS Consortium data will **NOT** be made available to the public.
 ## Codebook
 > `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
-> **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
+><br> **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
 > <br>
-> **Data Sets** - folder containing all *data sets* analysed
+><br> **Data Sets** - folder containing all *data sets* analysed
 <details>
 <summary>Population Data sets</summary>
 1. World Bank population estimates: https://data.worldbank.org/indicator/SP.POP.TOTL <br>
