@@ -12,6 +12,7 @@
 
 ## Overview
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into an R project. 
+<br> *iris_ldh_2022* &#8594; "IRIS Lancet Digital Health 2022 Manuscript Repository. 
 
 **NOTE**
 <br>
@@ -31,7 +32,7 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 ><br> **Data Sets** - folder containing all *data sets* analysed (**NOTE**: does **NOT** include data sets analysed for the manuscript)
 
 <details>
-<summary>Population Data sets</summary>
+<summary>Population Data Sets</summary>
 1. World Bank population estimates: https://data.worldbank.org/indicator/SP.POP.TOTL <br>
 2. Office for National Statistics (UK): https://www.ons.gov.uk/timeseriestool?topic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries 
 </details>
