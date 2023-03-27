@@ -29,7 +29,9 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 ><br> **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
 ><br> **Data Sets** - folder containing all *data sets* analysed
 
-Finish.
+**Folder Contents**
+><br> **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
+><br> **Data Sets** - folder containing all *data sets* analysed
 
 <details>
 <summary>Population Data sets</summary>
