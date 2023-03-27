@@ -25,9 +25,6 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 Due to data protection agreements, IRIS Consortium data will **NOT** be made available to the public.
 ## Codebook
 > `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
-
-**Folder Contents**
-
 > **Functions** - contains *functions* written to facilitate data analysis (called via `main_script.R`)
 > <br>
 > **Data Sets** - folder containing all *data sets* analysed
