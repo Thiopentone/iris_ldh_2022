@@ -30,7 +30,7 @@ This is how you dropdown.
 Due to data protection agreements, IRIS Consortium data will **NOT** be made available to the public.
 ## Codebook
 > `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
-> <details>
+<details>
 <summary>Folders</summary>
 <br>
 >**Functions** - folder containing all the functions written to facilitate data analytics
