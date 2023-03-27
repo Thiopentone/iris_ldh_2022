@@ -33,9 +33,8 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 > **Data Sets** - folder containing all *data sets* analysed
 <details>
 <summary>Population Data sets</summary>
-<br>
 1. World Bank population estimates available [here.](https://data.worldbank.org/indicator/SP.POP.TOTL)
-  2. Office for National Statistics (UK) available [here.](https://www.ons.gov.uk/timeseriestool?topic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries) 
+2. Office for National Statistics (UK) available [here.](https://www.ons.gov.uk/timeseriestool?topic=/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries) 
 </details>
 
 ## License
