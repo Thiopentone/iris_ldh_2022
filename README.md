@@ -33,8 +33,8 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 <details>
 <summary>Folders</summary>
 <br>
-**Functions** - folder containing all the functions written to facilitate data analytics
-**Data Sets** - folder that should contain all data sets analysed. **NOTE** This folder does NOT contain original data sets.
+<br> **Functions** - folder containing all the functions written to facilitate data analytics
+<br> **Data Sets** - folder that should contain all data sets analysed. **NOTE** This folder does NOT contain original data sets.
 </details>
 
 ## License
