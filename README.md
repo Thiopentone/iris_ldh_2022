@@ -11,7 +11,7 @@
 <br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
 
 ## Overview
-This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into a R project. 
+This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into an R project. 
 <details>
 <summary>How do I download and run an R project?</summary>
 <br>
@@ -29,7 +29,13 @@ This is how you dropdown.
 ## Data Protection
 Due to data protection agreements, IRIS Consortium data will **NOT** be made available to the public.
 ## Codebook
-> `main_script.R` - 
+> `main_script.R` - R script containing code used to run all analyses (calls functions and additional scripts when necessary)
+> <details>
+<summary>Folders</summary>
+<br>
+>**Functions** - folder containing all the functions written to facilitate data analytics
+>**Data Sets** - folder that should contain all data sets analysed. **NOTE** This folder does NOT contain original data sets.
+</details>
 ## License
 Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 ## Previous Publications and Repositories
