@@ -14,7 +14,7 @@
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into an R project. 
 
 
-|*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal 2022 Manuscript Code Repository". |
+|*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository". |
 |-------------------|
 
 **NOTE**
