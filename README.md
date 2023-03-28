@@ -6,16 +6,15 @@
 ![image_4](https://img.shields.io/static/v1?label=Progress&message=Updating&color=red&?style=plastic&logo=appveyor)
 ![image_5](https://img.shields.io/static/v1?label=Data%20Sets&message=Unavailable&color=inactive&?style=plastic&logo=appveyor)
 <br>
+|*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository"|
+|:-------------------|
+<br>
 <br> Accompanying code for the *Lancet Digital Health 2023* manuscript:
 <br> 
 <br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
 
 ## Overview
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into an R project. 
-
-
-|*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository"|
-|:-------------------|
 
 **NOTE**
 <br>
