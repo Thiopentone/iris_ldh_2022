@@ -1,4 +1,4 @@
-# <img width="100" height="100" src="Data%20Sets/images/two.jpeg"> The IRIS Consortium
+# <img width="50" height="50" src="Data%20Sets/images/two.jpeg"> The IRIS Consortium
 
 <p align="center">
   <img width="600" height="200" src="Data%20Sets/images/one.svg">
