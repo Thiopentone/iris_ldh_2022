@@ -1,4 +1,4 @@
-# The IRIS Consortium
+# The IRIS Consortium ![test]("/Data%20Sets/images/two.jpeg")
 
 <p align="center">
   <img width="600" height="200" src="Data%20Sets/images/one.svg">
@@ -59,4 +59,4 @@ If you have any queries, suggestions or concerns, please [get in touch.](mailto:
   alt="Alt text"
   title="Optional title"
   align = "center"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 1 auto; max-width: 100px">
