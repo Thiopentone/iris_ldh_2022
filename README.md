@@ -1,4 +1,4 @@
-# The IRIS Consortium ![test](/Data%20Sets/images/two.jpeg)
+# The IRIS Consortium ![test](/Data%20Sets/images/two.jpeg){:height="100px" width="100px"}
 
 <p align="center">
   <img width="600" height="200" src="Data%20Sets/images/one.svg">
@@ -53,10 +53,3 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 |[*Lancet Digital Health 2021*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00077-7/fulltext)|[*access here*](https://github.com/brueggemann-lab/iris-ldh-2020)|
 ## Contact
 If you have any queries, suggestions or concerns, please [get in touch.](mailto:iris@ndph.ox.ac.uk)
-
-<img
-  src="/Data%20Sets/images/two.jpeg"
-  alt="Alt text"
-  title="Optional title"
-  align = "center"
-  style="display: inline-block; margin: 1 auto; max-width: 100px">
