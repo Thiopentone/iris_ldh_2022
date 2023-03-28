@@ -1,4 +1,6 @@
-![logo_2]("Data%20Sets/images/one.svg") 
+<p align="left">
+  <img width="600" height="200" src="two.jpeg">
+</p> 
 # The IRIS Consortium
 
 <p align="center">
