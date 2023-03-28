@@ -15,7 +15,7 @@
 |*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository"|
 |:-------------------|
 
-<br> Accompanying code for the *Lancet Digital Health 2023* manuscript:
+<br> Accompanying code for the *Lancet Digital Health* manuscript:
 <br> 
 <br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
 
@@ -26,7 +26,7 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 <br>
 <br> This code was used to run analyses for two manuscripts:
 
-|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health 2023*](https://this-page-intentionally-left-blank.org/)|
+|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health* journal article](https://this-page-intentionally-left-blank.org/)|
 |----------|------------|----------|
 
 
@@ -53,3 +53,6 @@ Distributed under the GNU General Public License v3.0. Please see `LICENSE` for 
 |[*Lancet Digital Health 2021*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00077-7/fulltext)|[*access here*](https://github.com/brueggemann-lab/iris-ldh-2020)|
 ## Contact
 If you have any queries, suggestions or concerns, please [get in touch.](mailto:iris@ndph.ox.ac.uk)
+
+|Repository `PUBLIC` status since: 22/03/2023|
+|--------------------------------------------|
