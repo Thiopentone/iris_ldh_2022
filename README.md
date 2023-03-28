@@ -46,7 +46,7 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 </details>
 
 ## License
-Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0. Please see `LICENSE` for more information.
 ## Previous Publications and Repositories
 |**Publication**|**Repository**|
 |--------------|-----------------|
