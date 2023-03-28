@@ -58,4 +58,5 @@ If you have any queries, suggestions or concerns, please [get in touch.](mailto:
   src="/Data%20Sets/images/two.jpeg"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  align = "center"
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
