@@ -1,4 +1,4 @@
-# The IRIS Consortium ![test](/Data%20Sets/images/two.jpeg){:height="100px" width="100px"}
+# The IRIS Consortium ![test](/Data%20Sets/images/two.jpeg=100x100)
 
 <p align="center">
   <img width="600" height="200" src="Data%20Sets/images/one.svg">
