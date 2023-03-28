@@ -8,7 +8,6 @@
 <br>
 |*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository"|
 |:-------------------|
-<br>
 <br> Accompanying code for the *Lancet Digital Health 2023* manuscript:
 <br> 
 <br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
