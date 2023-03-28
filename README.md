@@ -5,12 +5,12 @@
 </p>
 
 
-![image](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
-![image_3](https://img.shields.io/static/v1?label=Coding%20Language&message=R&color=blueviolet&?style=plastic&logo=appveyor)
-![image_2](https://img.shields.io/static/v1?label=Last%20Repo%20Update&message=22%20March%202023&color=green&?style=plastic&logo=appveyor)
-![image_4](https://img.shields.io/static/v1?label=Repo%20Status&message=Active&color=green&?style=plastic&logo=appveyor)
-![image_4](https://img.shields.io/static/v1?label=Progress&message=Updating&color=red&?style=plastic&logo=appveyor)
-![image_5](https://img.shields.io/static/v1?label=Data%20Sets&message=Unavailable&color=inactive&?style=plastic&logo=appveyor)
+![languages](https://img.shields.io/static/v1?label=Languages&message=1&color=blue&?style=plastic&logo=appveyor)
+![coding language](https://img.shields.io/static/v1?label=Coding%20Language&message=R&color=blueviolet&?style=plastic&logo=appveyor)
+![last update](https://img.shields.io/static/v1?label=Last%20Repo%20Update&message=27%20March%202023&color=green&?style=plastic&logo=appveyor)
+![status](https://img.shields.io/static/v1?label=Repo%20Status&message=Active&color=green&?style=plastic&logo=appveyor)
+![progress](https://img.shields.io/static/v1?label=Progress&message=Update%20Complete&color=green&?style=plastic&logo=appveyor)
+![data sets](https://img.shields.io/static/v1?label=Data%20Sets&message=Unavailable&color=inactive&?style=plastic&logo=appveyor)
 <br>
 |*iris_ldh_2022* &#8594; "IRIS *Lancet Digital Health* Journal Article 2022 Manuscript Code Repository"|
 |:-------------------|
