@@ -49,7 +49,7 @@ Due to data protection agreements, IRIS Consortium data will **NOT** be made ava
 Distributed under the GNU General Public License v3.0. Please see `LICENSE` for more information.
 ## Previous Publications and Repositories
 |**Publication**|**Repository**|**DOI**|
-|--------------|:-----------------|:-----------------|
+|--------------|-----------------|-----------------|
 |[*Lancet Digital Health 2021*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(21)00077-7/fulltext)|[*access here*](https://github.com/brueggemann-lab/iris-ldh-2020)|![doi](https://img.shields.io/badge/DOI-https://doi.org/gj6v2c-blue)|
 ## Contact
 If you have any queries, suggestions or concerns, please [get in touch.](mailto:iris@ndph.ox.ac.uk)
