@@ -17,7 +17,7 @@
 
 <br> Accompanying code for the *Lancet Digital Health* manuscript:
 <br> 
-<br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://this-page-intentionally-left-blank.org/)
+<br> [*"Sustained reductions in invasive bacterial diseases during the first two years of the COVID-19 pandemic: analyses of prospective surveillance data from 30 countries participating in the IRIS Consortium"*](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00108-5/fulltext)
 
 ## Overview
 This repository contains the R code used to run analyses on the IRIS Consortium data. The code has been compiled into an R project. 
@@ -26,7 +26,7 @@ This repository contains the R code used to run analyses on the IRIS Consortium 
 <br>
 <br> This code was used to run analyses for two manuscripts:
 
-|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health* journal article](https://this-page-intentionally-left-blank.org/)|
+|**Manuscript:**|[*medRxiv preprint*](https://www.medrxiv.org/content/10.1101/2022.12.16.22283251v1)|[*Lancet Digital Health* journal article](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00108-5/fulltext)|
 |----------|------------|----------|
 
 
